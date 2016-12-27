@@ -1,0 +1,18 @@
+{
+  "name": "highcharts-editor",
+  "dependencies": {},
+  "version": "1.0.0",
+  "description": "Highcharts Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "highcharts",
+    "highcharts",
+    "editor",
+    "graphs"
+  ],
+  "author": "Christian Pfarher <c.pfarher@gmail.com, cpfarher@bys-control.com.ar> (http://www.bys-control.com.ar)",
+  "license": "MIT"
+}

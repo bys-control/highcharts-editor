@@ -1,0 +1,1 @@
+module.exports = require('highcharts-editor.js');
