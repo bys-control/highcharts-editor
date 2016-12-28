@@ -1,7 +1,7 @@
 {
   "name": "highcharts-editor",
   "dependencies": {},
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Highcharts Editor",
   "main": "index.js",
   "scripts": {
